@@ -1,4 +1,4 @@
-# Projeto-de-Algoritmos-de-Escalonamento-de-Processos
+# Projeto de Algoritmos de Escalonamento de Processos
 
 Projeto de Escalonamento – Sistemas Operacionais
 
